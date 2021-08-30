@@ -109,9 +109,7 @@ p {
     line-height: 1;
   }
 }
-/*  global classes */
 
-/* section */
 .section {
   padding: 5rem 0;
 }
@@ -132,11 +130,7 @@ main {
   place-items: center;
 }
 
-/*
-=============== 
-Nav
-===============
-*/
+
 nav {
   background: var(--clr-white);
   height: 3rem;
@@ -170,11 +164,7 @@ nav a {
 nav a:hover {
   color: var(--clr-primary-5);
 }
-/*
-=============== 
-Container
-===============
-*/
+
 main {
   min-height: calc(100vh - 3rem);
   display: grid;
